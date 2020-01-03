@@ -5,6 +5,7 @@
 This application features the ability to query the service for information on stocks via their ticker symbols.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704202-1e01cc00-2d96-11ea-85e3-995cab1ec0ba.png)
 
 ## Application Compiling
 
